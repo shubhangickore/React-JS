@@ -23,8 +23,8 @@ Currently, it includes:
    cd REACTJS
 ## 📖 What I Learned
 
-Creating and organizing React components
-Working with props and state
-Handling events in React
-Class-based component lifecycle
-Hands-on practice with small projects
+-Creating and organizing React components
+-Working with props and state
+-Handling events in React
+-Class-based component lifecycle
+-Hands-on practice with small projects
