@@ -17,7 +17,7 @@ Currently, it includes:
 
 ## 🚀 How to Run a Project
 
-1. Clone the repository:
+1. Clone the repository:  
    ```bash
    git clone https://github.com/<your-username>/<your-repo>.git
    cd REACTJS
