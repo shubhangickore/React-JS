@@ -52,7 +52,7 @@ export default function Form (){
              name = "password"/>
 
 
-        <button >Submit</button>
+        <button >SUBMIT</button>
         </form>
     )
 }

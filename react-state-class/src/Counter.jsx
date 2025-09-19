@@ -13,7 +13,7 @@ export default function Counter(){
     return(
     <div>
         <h3>count={count}</h3>
-        <button onClick ={incCount}> Click</button>
+        <button onClick ={incCount}> Click Here </button>
     </div>
     );
 }
