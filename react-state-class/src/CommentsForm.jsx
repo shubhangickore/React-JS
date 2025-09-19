@@ -26,7 +26,7 @@ export default function CommentsForm(){
      };
     return(
         <div>
-            <h3> Give Comments</h3>
+            <h3> Add Comments</h3>
             <form onSubmit = {handleOnsubmit}>
                 <label htmlFor = "username">Username</label>
                 <input placeholder = "enter username"
