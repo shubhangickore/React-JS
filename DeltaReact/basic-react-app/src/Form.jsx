@@ -8,7 +8,7 @@ export default function Form(){
     return(
     <form>
         <input placeholder ="write somthing "/>
-        <button onClick = {handleFormSubmit}> SUBMIT </button>
+        <button onClick = {handleFormSubmit}> submit </button>
     </form>
     );
 }
