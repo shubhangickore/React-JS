@@ -8,8 +8,8 @@ function printBye(){
 export default function Button(){
     return (
         <div>
-            <button onClick ={printHello}>Click Me !</button>
-            <p onClick={printBye}> This is parh for event Handling </p>
+            <button onClick ={printHello}>Click Here !</button>
+            <p onClick={printBye}> This is part for event Handling </p>
         </div>
     );
 }
